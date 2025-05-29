@@ -26,13 +26,29 @@
 
 ## 🎯 About Me
 
-```yaml
-name: Akula Guru Datta
-role: SDE-1 @ SmartReach.io
-location: India 🇮🇳
-focus: ["Full Stack Development", "Data Visualization", "Applied AI"]
-passion: "Bridging Indian culture with modern technology"
-current_mission: "Exploring Applied AI and creating meaningful visualizations"
+```javascript
+const developer = {
+    name: "Akula Guru Datta",
+    title: "Full Stack Developer & Data Visualizer",
+    company: "SmartReach.io",
+    role: "SDE-1",
+    location: "Chirala, India 🇮🇳",
+    
+    expertise: [
+        "Full Stack Development",
+        "Interactive Data Visualization", 
+        "Applied AI & Machine Learning",
+        "Web Scraping & Data Analysis"
+    ],
+    
+    passion: "Bridging timeless Indian culture with cutting-edge technology",
+    mission: "Creating meaningful digital experiences through data storytelling",
+    
+    languages: ["Telugu", "English", "Hindi"],
+    timezone: "IST (UTC+5:30)"
+};
+
+console.log("Welcome to my digital world! 🚀");
 ```
 
 <table>
@@ -52,7 +68,8 @@ current_mission: "Exploring Applied AI and creating meaningful visualizations"
 - **Frontend:** Flutter, React, TypeScript
 - **Backend:** Python, FastAPI, Scala
 - **Database:** PostgreSQL
-- **Visualization:** Interactive Maps, Plotly
+- **Visualization:** Leaflet Maps, Pandas, Plotly
+- **Data Skills:** Web Scraping, Data Analysis
 - **Culture Tech:** Panchang, Bhagavad Gita apps
 
 </td>
@@ -74,7 +91,7 @@ current_mission: "Exploring Applied AI and creating meaningful visualizations"
 - 🔗 **Links:** [Live Demo](https://garudadevdataservices.github.io/mapexpo/) | [GitHub](https://github.com/GarudadevDataServices/mapexpo)
 
 ```
-Tech Stack: JavaScript • D3.js • Interactive Maps • Data Visualization
+Tech Stack: JavaScript • Leaflet.js • Interactive Maps • Data Visualization
 ```
 
 </details>
@@ -174,9 +191,11 @@ Tech Stack: React • FastAPI • JavaScript • Cultural Computing
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ### 📊 Data & Visualization
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-306998?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 
 </div>
 
@@ -186,8 +205,8 @@ Tech Stack: React • FastAPI • JavaScript • Cultural Computing
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=datta07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datta07&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=datta07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datta07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
