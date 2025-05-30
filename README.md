@@ -44,7 +44,7 @@ const developer = {
     passion: "Bridging timeless Indian culture with cutting-edge technology",
     mission: "Creating meaningful digital experiences through data storytelling",
     
-    languages: ["Telugu", "English", "Hindi"],
+    languages: ["Telugu", "English"],
     timezone: "IST (UTC+5:30)"
 };
 
